@@ -5,3 +5,5 @@ class Detention
 end
 
 location = Detention.new("Room301")
+
+puts location.
