@@ -1,5 +1,5 @@
 #Code your detention class here
 class Detention
-  def initialize(test_location)
+  def test_location
     @test_location = "Room 301"
 end
