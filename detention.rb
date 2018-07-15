@@ -6,4 +6,4 @@ end
 
 location = Detention.new("Room301")
 
-puts location.
+puts location.test.location
